@@ -1,5 +1,3 @@
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)
-
 
 # Olá, me chamo Ana Schwaab 👋
 
@@ -8,6 +6,8 @@ Tenho grande interesse por tecnologia em especial a área de programação. Nest
 ## 🌱 Atualmente estou aprendendo...
 
 Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me aprimorar como dev fullstack, concentrando meus estudos em JavaScript, HTML, CSS, React e NodeJs.
+
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)
 
 ## 🔭 Principais tecnologias e ferramentas
 
@@ -20,11 +20,12 @@ Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-</div><br/>
+  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div></br>
+
 
 
 ## 📫 Como me encontrar...
