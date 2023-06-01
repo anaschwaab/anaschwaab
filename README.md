@@ -28,9 +28,9 @@ Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me
 </div></br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaschwaab&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaschwaab&hide_border=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&hide_border=true&username=anaschwaab" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&username=anaschwaab&hide=css,sass" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=anaschwaab" height="150" alt="languages graph"  />
 </div>
 
 ## 📫 Como me encontrar...
