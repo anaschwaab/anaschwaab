@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)]
 
 
 # Olá, me chamo Ana Schwaab 👋
