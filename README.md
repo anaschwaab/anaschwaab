@@ -1,4 +1,4 @@
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)]
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)
 
 
 # Olá, me chamo Ana Schwaab 👋
