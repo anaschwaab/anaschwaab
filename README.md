@@ -7,7 +7,9 @@ Tenho grande interesse por tecnologia em especial a área de programação. Nest
 
 Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me aprimorar como dev fullstack, concentrando meus estudos em JavaScript, HTML, CSS, React e NodeJs.
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true)
+<div align="center">
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true) 
+</div>
 
 ## 🔭 Principais tecnologias e ferramentas
 
