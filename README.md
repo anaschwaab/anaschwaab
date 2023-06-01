@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Language](https://img.shields.io/github/languages/top/anaschwaab/seu_repositorio)](https://github.com/anaschwaab/seu_repositorio)
+[![Top Language](https://img.shields.io/github/languages/top/anaschwaab/soulpet-frontend)](https://github.com/anaschwaab/seu_repositorio)
 
 
 # Olá, me chamo Ana Schwaab 👋
