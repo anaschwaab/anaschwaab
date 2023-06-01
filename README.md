@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Olá, me chamo Ana Schwaab 👋
 
@@ -13,4 +13,4 @@ Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me
 - LinkedIn: [Ana Schwaab](https://www.linkedin.com/in/ana-schwaab/)
 - Email: schwaabana@gmail.com
 
-Fique à vontade para explorar meus projetos e entrar em contato. Vamos criar algo incrível juntos! 😄
+Fique à vontade para explorar meus projetos e entrar em contato. 😄
