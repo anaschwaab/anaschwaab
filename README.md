@@ -7,8 +7,6 @@ Tenho grande interesse por tecnologia em especial a área de programação. Nest
 
 Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me aprimorar como dev fullstack, concentrando meus estudos em JavaScript, HTML, CSS, React e NodeJs.
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaschwaab&count_private=true&hide=none&theme=dracula&&show_icons=true) 
-
 
 ## 🔭 Principais tecnologias e ferramentas
 
@@ -28,8 +26,8 @@ Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me
 </div></br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaschwaab&hide_border=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&hide_border=true&username=anaschwaab" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaschwaab&hide_border=true&theme=dracula&hide=date" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&locale=en&hide_border=true&username=anaschwaab" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=anaschwaab" height="150" alt="languages graph"  />
 </div>
 
