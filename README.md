@@ -8,7 +8,7 @@ Neste espaço, compartilho alguns projetos e meu aprendizado na área.
 Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me aprimorar como dev fullstack, concentrando meus estudos em JavaScript, HTML, CSS, React e NodeJs.
 
 
- 🔭 Principais tecnologias e ferramentas
+## 🔭 Principais tecnologias e ferramentas
 
 <div align="center">
   <a href="https://www.w3.org/html/"><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
