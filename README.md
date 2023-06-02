@@ -1,7 +1,7 @@
 
 # Olá, me chamo Ana Schwaab 👋
 
-Tenho grande interesse por tecnologia em especial a área de programação. Neste espaço, compartilho alguns projetos e meu aprendizado na área.
+Neste espaço, compartilho alguns projetos e meu aprendizado na área.
 
 ## 🌱 Atualmente estou aprendendo...
 
