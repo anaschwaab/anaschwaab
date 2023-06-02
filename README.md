@@ -24,7 +24,6 @@ Estou dedicando meu tempo no desenvolvimento de aplicações web e focando em me
   <a href="https://sequelize.org/"><img align="center" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /></a>
   <a href="https://postman.com"><img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 </div></br>
-##
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaschwaab&hide_border=true&theme=tokyonight&hide=stars,commits,prs,issues,contribs,date" height="150"/>
