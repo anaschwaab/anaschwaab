@@ -1,7 +1,7 @@
 
 # Olá, me chamo Ana Schwaab 👋
 
-Neste espaço, compartilho alguns projetos e meu aprendizado na área de desenvolvimento web, com foco em JavaScript, HTML, CSS, React e NodeJs.
+Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvolvimento web, com foco em JavaScript, HTML, CSS, React e NodeJs.
 
 
 ##  Principais tecnologias e ferramentas
