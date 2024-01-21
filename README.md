@@ -1,7 +1,7 @@
 
 # Olá, me chamo Ana Schwaab 👋
 
-Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvolvimento web, com foco em JavaScript, HTML, CSS, React e NodeJs.
+Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvolvimento web.
 
 
 ##  Principais tecnologias e ferramentas
@@ -29,10 +29,29 @@ Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvol
 
 ## Projetos
 
-### 1. [Sistema de Pedidos](https://github.com/anaschwaab/desafio-back)
-   Sistema de pedidos - backend.
 
-   ![Imagem do Projeto 1](images/pedidos_dashboard.jpeg)
+<div style="display: flex; justify-content: space-around;">
+
+  <div>
+
+  ### Sistema de Pedidos
+
+  <img src="images/pedidos_dashboard.jpeg" height="150" style="border-radius: 3px;"/>
+  
+  - [Backend - Node.js](https://github.com/anaschwaab/desafio-back) 
+  - [Frontend - React](https://github.com/anaschwaab/desafio-back)
+  </div>
+
+  <div>
+
+  ### Portfólio
+
+  <img src="images/portfolio.png" height="150" style="border-radius: 3px;"/>
+  
+  - [Frontend - JavaScript Vanilla](https://github.com/anaschwaab/portfolio)
+  </div>
+</div>
+
 
 ## 📫 Contato
 
