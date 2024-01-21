@@ -27,6 +27,13 @@ Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvol
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=anaschwaab" height="150" alt="languages graph"  />
 </div>
 
+## Projetos
+
+### 1. [Sistema de Pedidos](https://github.com/anaschwaab/desafio-back)
+   Sistema de pedidos - backend.
+
+   ![Imagem do Projeto 1](images/pedidos_dashboard.jpeg)
+
 ## 📫 Contato
 
 - LinkedIn: [Ana Schwaab](https://www.linkedin.com/in/ana-schwaab/)
