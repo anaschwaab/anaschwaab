@@ -30,7 +30,7 @@ Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvol
 ## Projetos
 
 
-<div style="display: flex; justify-content: space-around;">
+<!-- <div style="display: flex; justify-content: space-around;">
 
   <div>
 
@@ -50,7 +50,7 @@ Neste espaço compartilho alguns projetos e meu aprendizado na área de desenvol
   
   - [Frontend - JavaScript Vanilla](https://github.com/anaschwaab/portfolio)
   </div>
-</div>
+</div> -->
 
 
 ## 📫 Contato
